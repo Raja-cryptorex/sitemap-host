@@ -1,0 +1,2 @@
+# sitemap-host
+Sitemap hosting
